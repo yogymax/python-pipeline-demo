@@ -25,3 +25,7 @@ class TestAddition(unittest.TestCase):
 
     def test_addition_positive3(self):
        print('test_addition_positive3 --')
+
+
+if __name__ == "__main__":
+    unittest.main()
